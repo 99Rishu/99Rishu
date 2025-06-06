@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishmi Dissanayaka</h1>
-<h3 align="center">A passionate Computing Student from Sri-Lanka</h3>
+<h3 align="center">Quality Assurance Engineer Trainee</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=99rishu&label=Profile%20views&color=0e75b6&style=flat" alt="99rishu" /> </p>
-- 🔭 I’m currently working on ElectraFind
+- 🔭 I’m currently working on my new project on Python
 
 - 🌱 I’m currently learning **New Technologies and Languages**
 
