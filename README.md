@@ -3,9 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=99rishu&label=Profile%20views&color=0e75b6&style=flat" alt="99rishu" /> </p>
 - 🔭 I’m currently working on my new project on Python
 
-- 🌱 I’m currently learning **New Technologies and Languages**
+- 🌱 I’m currently learning **vue.js and new automation tools**
 
-- 💬 Ask me about **Java ,MERN and Tailwind**
+- 💬 Ask me about **Java ,Selenium and Automation trics**
 
 - 📫 How to reach me **987rishudissanayaka@gmail.com**
 
